@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6147cf5c7ac3e84f50cabec2"
+  },
+  "url": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/mens-better-than-naked-jacket-AVMH_LC9_hero.png",
+  "characteristics": [
+    "jacket",
+    "blue",
+    "hood",
+    "northface",
+    "outdoor",
+    "men"
+  ],
+  "title": "North Face MEN'S BETTER THAN NAKED&trade; JACKET"
+},{
+  "_id": {
+    "$oid": "6147cf5c7ac3e84f50cabec3"
+  },
+  "url": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/womens-better-than-naked-jacket-AVKL_NN4_hero.png",
+  "characteristics": [
+    "jacket",
+    "blue",
+    "hood",
+    "northface",
+    "outdoor",
+    "women"
+  ],
+  "title": "North Face WOMEN'S BETTER THAN NAKED&trade; JACKET"
+},{
+  "_id": {
+    "$oid": "6147cf5c7ac3e84f50cabec4"
+  },
+  "url": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/womens-single-track-shoe-ALQF_JM3_hero.png",
+  "characteristics": [
+    "shoe",
+    "blue",
+    "northface",
+    "outdoor",
+    "women"
+  ],
+  "title": "North Face WOMEN'S SINGLE-TRACK SHOE"
+},{
+  "_id": {
+    "$oid": "6147cf5c7ac3e84f50cabec5"
+  },
+  "url": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/enduro-boa-hydration-pack-AJQZ_JK3_hero.png",
+  "characteristics": [
+    "waterbag",
+    "black",
+    "northface",
+    "bottle",
+    "bag"
+  ],
+  "title": "North Face Enduro Boa&reg; Hydration Pack"
+}]
