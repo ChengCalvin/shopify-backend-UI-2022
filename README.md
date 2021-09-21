@@ -4,7 +4,7 @@ This project is the frontend tool used to demonstrate the API endpoint build in 
 
 ## To run this project
 
-To run this project you just need to do `npm install` followed by `npm run start`
+To run this project you just need to do `npm install` followed by `npm run start` as well as the server in the github link above
 
 ## Idea
 
